@@ -46,7 +46,7 @@ namespace CSharpBasics
             al.Remove(30);
             //We can remove the value based on the index position also 
             al.Remove(2);
-
+ al.RemoveAt(30);
 
 
                 }
